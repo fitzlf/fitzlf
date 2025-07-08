@@ -3,7 +3,7 @@
 <p>💻 Code Wizardry</p>
 <p>My Developer Journey:</p>
 <p>Specializing in: </p>
-<p>-React/Next.js</p>
+<p>-React/Next.js/Expo</p>
 <p>-Rust/Tauri</p>
 <p>-Python</p>
 <p>Open Source Advocate: Contributing to open source projects, fostering collaboration, and sharing knowledge.</p>
